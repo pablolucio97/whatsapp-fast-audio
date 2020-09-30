@@ -25,7 +25,7 @@ Em seguida vá até o diretório da pasta e simplesmente arraste-a para o Google
 
 
 ## 🏁 Pronto. 
-Sua extensão já está funcioando, para utilizá-la basta apenas clicar no botão "2x" e ouvir seu áudio.
+Sua extensão já está funcioando, para utilizá-la basta acessar o whatsapp para web, clicar no botão "2x" e ouvir seu áudio.
 
 ![img](https://i.ibb.co/NLfc7Mn/whatsapp-fast-audio-button.png)
 
